@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbbaker121
 - 👀 I’m interested in sports and creating Python projects
 - 🌱 I’m currently learning how to create complex projects
-- 📫 How to reach me jbb394111@gmail.com or @jbb Fanspo
+- 📫 How to reach me jbb394111@gmail.com 
 - ⚡ Fun fact: I was born with 6 fingers
 
 <!---
